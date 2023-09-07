@@ -4,6 +4,7 @@
   background: linear-gradient(90deg, var(--light-gray-color), var(--black-color));
   text-align: center;
   padding: 0.6rem 0;
+  width: 100vw;
 }
 
 @media (min-width: 770px) {
